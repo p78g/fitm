@@ -1,7 +1,7 @@
 -- AutoFish Notifier - Scan FishPPPart indices 0-150 for "Able" attribute
 local RunService = game:GetService("RunService")
 local HttpService = game:GetService("HttpService")
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1469813322936356956/7vOLfjATJUvnwcKcUACeMOpC6-KssMk6P6pSsNzajaJXHRWY5PhPuq9rE2WJQsNJ2u2n"
+local WEBHOOK_URL = ""
 local THRESHOLD = 200  -- Changed to 200%
 local SCAN_INTERVAL = 90
 local DEBUG = true
